@@ -82,7 +82,7 @@ git push -u origin main
 10) А так же появиться новая кнопка Compare & pull reguest, нажав на неё мы можем предложить наши изменения 
 11) GitHub проверит сам и нам надо будет добавить описание потом нажать на Creatr puii request
 
-
+Еnd of the third lecture!!!
 
 
 
